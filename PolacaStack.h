@@ -15,7 +15,7 @@
 
         Integrantes: Pedro Figueroa Cerda 
         
-        Profesor: Ruben Carvajal Schiaffino
+        Institucion: Universidad de Santiago de Chile
 
         arcivo que contiene lex de problema
 
